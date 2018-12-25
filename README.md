@@ -1,3 +1,5 @@
+The code in the experiment is based on Detectron. If you want to run this experiment, you need to download Detectron and replace ‘configs/12_2017_baselines/e2e_mask_rcnn_R-50-FPN_1x.yaml’、‘detectron/datasets/dataset_catalog.py’ with same file by us.
+
 # Detectron
 
 Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) deep learning framework.
